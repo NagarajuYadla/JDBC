@@ -1,0 +1,37 @@
+<dataset>
+	<person>
+		<id>1</id>
+		<first_name>Christel</first_name>
+		<last_name>Syphus</last_name>
+		<email>csyphus0@mozilla.com</email>
+		<gender>Female</gender>
+	</person>
+	<person>
+		<id>2</id>
+		<first_name>Devonna</first_name>
+		<last_name>Eaglestone</last_name>
+		<email>deaglestone1@cnbc.com</email>
+		<gender>Female</gender>
+	</person>
+	<person>
+		<id>3</id>
+		<first_name>Neal</first_name>
+		<last_name>Kerss</last_name>
+		<email>nkerss2@springer.com</email>
+		<gender>Male</gender>
+	</person>
+	<person>
+		<id>4</id>
+		<first_name>Marja</first_name>
+		<last_name>Kunze</last_name>
+		<email>mkunze3@umn.edu</email>
+		<gender>Female</gender>
+	</person>
+	<person>
+		<id>5</id>
+		<first_name>Kate</first_name>
+		<last_name>McEntegart</last_name>
+		<email>kmcentegart4@4shared.com</email>
+		<gender>Polygender</gender>
+	</person>
+</dataset>
